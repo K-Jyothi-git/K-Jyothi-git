@@ -86,11 +86,6 @@ Texas A&M University, Corpus Christi, USA
 **Bachelor of Technology – Computer Science Engineering**  
 Usha Rama College of Engineering and Technology, India
 
----
-
-# GitHub Stats
-
-![Jyothi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Jyothi-git&show_icons=true&theme=radical)
 
 ---
 
