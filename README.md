@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Jyothi Kalakoti
+# Hi, I'm Jyothi Kalakoti
 
-📊 **Data Analyst | Python | SQL | Power BI | Machine Learning**
+**Data Analyst | Python | SQL | Power BI | Machine Learning**
 
 I am a Data Analyst with **3+ years of experience** in transforming complex datasets into meaningful insights. I specialize in **data analysis, predictive modeling, data visualization, and cloud-based analytics solutions**.
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-- 📍 Texas, USA
-- 📊 3+ years experience in **Data Analysis**
-- 🧠 Strong background in **Machine Learning & Statistical Analysis**
-- ☁️ Experienced with **AWS and cloud-based data processing**
-- 📈 Passionate about **data storytelling and decision intelligence**
+- Texas, USA
+- 3+ years experience in **Data Analysis**
+- Strong background in **Machine Learning & Statistical Analysis**
+- Experienced with **AWS and cloud-based data processing**
+- Passionate about **data storytelling and decision intelligence**
 
 ---
 
-# 🛠 Technical Skills
+# Technical Skills
 
 ### Programming
 - Python
@@ -56,7 +56,7 @@ I am a Data Analyst with **3+ years of experience** in transforming complex data
 
 ---
 
-# 📊 Professional Experience
+# Professional Experience
 
 ## Data Analyst — Charles Schwab (2025–Present)
 
@@ -78,26 +78,25 @@ I am a Data Analyst with **3+ years of experience** in transforming complex data
 
 ---
 
-# 📚 Education
+# Education
 
-🎓 **Master of Science – Computer Science**  
+**Master of Science – Computer Science**  
 Texas A&M University, Corpus Christi, USA  
 
-🎓 **Bachelor of Technology – Computer Science Engineering**  
+**Bachelor of Technology – Computer Science Engineering**  
 Usha Rama College of Engineering and Technology, India
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Jyothi GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Jyothi-git&show_icons=true&theme=radical)
 
 ---
 
-# 🔗 Connect With Me
+# Connect With Me
 
-📧 Email: Kalakotijyothi01@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/your-linkedin  
+📧 Email: Kalakotijyothi01@gmail.com    
 📍 Texas, USA
 
 ---
