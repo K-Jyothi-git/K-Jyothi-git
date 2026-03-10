@@ -96,4 +96,4 @@ Usha Rama College of Engineering and Technology, India
 
 ---
 
-⭐ *Passionate about turning data into insights that drive impactful decisions.*
+*Passionate about turning data into insights that drive impactful decisions.*
