@@ -1,8 +1,8 @@
 <h1 align="center">JYOTHI KALAKOTI</h1>
-<h3 align="center">🔵 DATA ANALYST • BUSINESS INTELLIGENCE • MACHINE LEARNING</h3>
+<h3 align="center">🔵 DATA ANALYST </h3>
 
 <p align="center">
-Transforming complex datasets into meaningful insights and data-driven decisions.
+Transforming complex datasets into actionable insights and data-driven decisions.
 </p>
 
 ---
@@ -23,15 +23,15 @@ Transforming complex datasets into meaningful insights and data-driven decisions
 
 ---
 
-<h2 align="center">🧠 ABOUT ME</h2>
+<h2 align="center">🧠 PROFESSIONAL SUMMARY</h2>
 
 <p align="center">
-Data Analyst with <b>3+ years of experience</b> transforming complex datasets into actionable insights.<br>
-Experienced in <b>Python, SQL, Machine Learning, and Data Visualization</b> using tools such as Power BI and Tableau.
+Data Analyst with <b>3+ years of experience</b> in analyzing and transforming complex datasets from healthcare, financial, and operational systems.  
+Experienced in <b>Python, SQL, R, and advanced analytics</b> with strong expertise in building dashboards, machine learning models, and automated data pipelines.
 </p>
 
 <p align="center">
-Focused on building scalable analytics solutions that help organizations make <b>data-driven decisions</b>.
+Skilled in leveraging <b>AWS, Snowflake, Apache Spark, and modern BI tools</b> to support business intelligence and data-driven decision making.
 </p>
 
 ---
@@ -54,14 +54,22 @@ Focused on building scalable analytics solutions that help organizations make <b
 
 <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws">
 <img src="https://img.shields.io/badge/Apache_Spark-red?style=for-the-badge&logo=apachespark">
+<img src="https://img.shields.io/badge/Snowflake-blue?style=for-the-badge">
 
 <br>
 
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
 <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql">
 <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb">
-<img src="https://img.shields.io/badge/Snowflake-blue?style=for-the-badge">
 
+</p>
+
+<p align="center">
+<b>Libraries:</b> Pandas • NumPy • SciPy • Scikit-learn • TensorFlow • Matplotlib • Seaborn  
+</p>
+
+<p align="center">
+<b>Tools:</b> GitHub • Jupyter Notebook • VS Code • PyCharm • Jira • SSIS • SSRS  
 </p>
 
 ---
@@ -69,28 +77,42 @@ Focused on building scalable analytics solutions that help organizations make <b
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
 <h3>Data Analyst — Charles Schwab</h3>
-<p><b>Jan 2025 – Present</b></p>
+<p><b>Texas, USA | Jan 2025 – Present</b></p>
 
 <ul>
-<li>Analyzed <b>3M+ policyholder records and 24 months of claims data</b> to identify operational inefficiencies.</li>
-<li>Developed Python-based data pipelines improving data readiness by <b>15%</b>.</li>
-<li>Optimized SQL queries in Snowflake reducing query time by <b>22%</b>.</li>
-<li>Built interactive <b>Power BI dashboards</b> to monitor fraud risk and claims metrics.</li>
-<li>Implemented machine learning models improving <b>fraud detection precision by 35%</b>.</li>
+<li>Analyzed <b>3M+ policyholder records and 24 months of claims data</b> to identify risk patterns and operational inefficiencies.</li>
+<li>Developed reusable <b>Python data pipelines</b> using Pandas and NumPy improving data readiness by <b>15%</b>.</li>
+<li>Optimized <b>SQL queries in Snowflake</b> reducing average query execution time by <b>22%</b>.</li>
+<li>Built interactive <b>Power BI dashboards</b> tracking claims volume, fraud risk scores, turnaround time, and operational KPIs.</li>
+<li>Assisted in building <b>machine learning models using Scikit-learn</b> improving fraud detection precision by <b>35%</b>.</li>
+<li>Automated regulatory and risk reporting using <b>Excel VBA</b>, reducing manual reporting effort.</li>
+<li>Collaborated with cross-functional teams using <b>Agile methodology and JIRA</b> to deliver analytics solutions.</li>
 </ul>
 
 ---
 
 <h3>Data Analyst — Deloitte</h3>
-<p><b>Feb 2021 – Jul 2023</b></p>
+<p><b>India | Feb 2021 – Jul 2023</b></p>
 
 <ul>
-<li>Analyzed healthcare claims data using <b>Python and SQL</b>.</li>
-<li>Developed Tableau dashboards improving reporting efficiency by <b>30%</b>.</li>
-<li>Implemented <b>K-Means clustering</b> improving claim approval rate by <b>18%</b>.</li>
-<li>Processed <b>1.2M+ healthcare records using Apache Spark</b>.</li>
-<li>Designed A/B testing experiments reducing claim denials by <b>15%</b>.</li>
+<li>Analyzed patient billing and healthcare claims data using <b>Python and SQL</b> to identify denial patterns and revenue leakage.</li>
+<li>Developed <b>Tableau dashboards</b> to track revenue cycle KPIs improving reporting efficiency by <b>30%</b>.</li>
+<li>Applied <b>K-Means clustering</b> to segment providers and payers improving claim approval rates by <b>18%</b>.</li>
+<li>Processed <b>1.2M+ healthcare records using Apache Spark</b> for distributed data transformation.</li>
+<li>Designed and executed <b>A/B testing experiments</b> improving claim processing workflows and reducing denials by <b>15%</b>.</li>
+<li>Implemented monitoring using <b>AWS CloudWatch</b> to detect data anomalies and pipeline failures.</li>
+<li>Ensured <b>HIPAA and CMS compliance</b> across healthcare data workflows.</li>
 </ul>
+
+---
+
+<h2 align="center">📊 ANALYTICS EXPERTISE</h2>
+
+<p align="center">
+Machine Learning • Predictive Modeling • Data Mining • Forecasting • Data Cleaning • Data Wrangling  
+Data Warehousing • Data Visualization • Data Storytelling • Clustering • Regression Analysis  
+Hypothesis Testing • ANOVA • Confidence Intervals • Probability Distributions
+</p>
 
 ---
 
@@ -98,13 +120,13 @@ Focused on building scalable analytics solutions that help organizations make <b
 
 <p align="center">
 
-<b>Master of Science – Computer Science</b><br>
+<b>Master of Science – Computer Science</b>
 Texas A&M University, Corpus Christi, USA
 
 <br><br>
 
-<b>Bachelor of Technology – Computer Science Engineering</b><br>
-Usha Rama College of Engineering and Technology, India
+<b>Bachelor of Technology – Computer Science Engineering</b>
+Usha Rama College of Engineering and Technology, Vijayawada, India
 
 </p>
 
@@ -126,13 +148,13 @@ Usha Rama College of Engineering and Technology, India
 
 <p align="center">
 
-📧 Email: <b>Kalakotijyothi01@gmail.com</b><br>
-📍 Location: <b>Texas, USA</b>
+📧 <b>Email:</b> [Kalakotijyothi01@gmail.com](mailto:Kalakotijyothi01@gmail.com)
+📍 <b>Location:</b> Texas, USA
 
 </p>
 
 ---
 
 <p align="center">
-⭐ <i>Passionate about turning data into insights that drive impactful decisions.</i>
+⭐ <i>Passionate about transforming raw data into insights that drive strategic business decisions.</i>
 </p>
