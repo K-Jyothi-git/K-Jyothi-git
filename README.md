@@ -13,6 +13,7 @@ Transforming complex datasets into actionable insights and data-driven decisions
 </a>
 
 <a href="#">
+<a href="https://www.linkedin.com/in/jyothi-kalakoti-11785b21b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
