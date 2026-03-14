@@ -157,5 +157,5 @@ Usha Rama College of Engineering and Technology, Vijayawada, India
 ---
 
 <p align="center">
-    <i>Passionate about transforming raw data into insights that drive strategic business decisions.</i>
+    <i>Passionate about transforming raw data into insights that drive strategic business decisions........</i>
 </p>
