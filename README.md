@@ -149,13 +149,16 @@ Usha Rama College of Engineering and Technology, Vijayawada, India
 
 <p align="center">
 
-📧 <b>Email:</b> [Kalakotijyothi01@gmail.com](mailto:Kalakotijyothi01@gmail.com)
-📍 <b>Location:</b> Texas, USA
+<b>Email:</b> [Kalakotijyothi01@gmail.com](mailto:Kalakotijyothi01@gmail.com)
+
+<b>Location:</b> Texas, USA
+
+<b>Linkedin:</b> https://www.linkedin.com/in/jyothi-kalakoti-11785b21b/
 
 </p>
 
 ---
 
 <p align="center">
-    <i>Passionate about transforming raw data into insights that drive strategic business decisions.</i>
+    <i>Passionate about transforming raw data into insights that drive strategic business decisions............</i>
 </p>
